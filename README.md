@@ -26,3 +26,6 @@ A simple URL shortener built with Spring Boot and MongoDB (using the MongoDB Jav
    mvn spring-boot:run
 
 
+Project URL: https://roadmap.sh/projects/url-shortening-service
+
+
